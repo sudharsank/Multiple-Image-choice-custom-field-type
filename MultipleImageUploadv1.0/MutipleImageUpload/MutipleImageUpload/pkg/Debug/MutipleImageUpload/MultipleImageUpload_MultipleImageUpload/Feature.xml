@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" ImageUrl="MultipleImageUpload/gallery.png" Title="Multiple Image Upload Field Type" Description="This custom field type enables you to use multiple images to a single column." Id="fcd81aa3-703a-48ba-ba8e-c7d388708d02" ReceiverAssembly="MultipleImageUpload, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e2a6b6e64224d85e" ReceiverClass="WRDC_MultipleImageUpload.Features.MultipleImageUpload.MultipleImageUploadEventReceiver" Scope="Web"></Feature>

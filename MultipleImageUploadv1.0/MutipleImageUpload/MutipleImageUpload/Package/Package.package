@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9adf623c-4dd4-4cfc-bd13-ae24b6df88b1" solutionId="9adf623c-4dd4-4cfc-bd13-ae24b6df88b1" resetWebServer="false" name="MutipleImageUpload" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="5b7bc780-9827-45d8-b2f0-78ac8ffaa3f1" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="0b5efa28-b2aa-4285-a9c1-1fee8a58c9d9" />
+    <projectItemReference itemId="9f3e3c2f-1ace-437e-bec0-dcda5a02138e" />
+    <projectItemReference itemId="8943973f-d321-465b-b504-a18c39d59f5d" />
+    <projectItemReference itemId="9c281576-1bcf-4df8-a1d4-0bb6281d2fb6" />
+    <projectItemReference itemId="9be44f8c-1c1d-4719-974e-aefa482d675c" />
+  </projectItems>
+</package>

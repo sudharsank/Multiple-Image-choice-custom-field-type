@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+
+  <FieldType>
+    <Field Name="TypeName">MultipleImageUpload</Field>
+    <Field Name="ParentType">MultiChoice</Field>
+    <Field Name="TypeDisplayName">Multichoice Image</Field>
+    <Field Name="TypeShortDescription">MultiChoice Image</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListAuthoringPages">TRUE</Field>
+    <Field Name="ShowOnDocumentLibraryAuthoringPages">TRUE</Field>
+    <Field Name="ShowOnSurveyAuthoringPages">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateAuthoringPages">TRUE</Field>
+    <Field Name="FieldTypeClass">MultipleImageUpload.MultipleImageUploadFieldType,MultipleImageUpload,Version=1.0.0.0,Culture=neutral,PublicKeyToken=e2a6b6e64224d85e</Field>
+    <Field Name="FieldEditorUserControl">/_controltemplates/MultipleImageUploadFieldEditor.ascx</Field>
+    <PropertySchema>
+      <Fields>
+        <Field Name="LibraryName"
+						DisplayName="LibraryName"
+						MaxLength="255"
+						DisplaySize="100"
+						Type="Text"
+						Hidden="TRUE">          
+        </Field>
+        <Field Name="FileCollection"
+						DisplayName="FileCollection"
+						MaxLength="255"
+						DisplaySize="100"
+						Type="Text"
+						Hidden="TRUE">
+        </Field>
+        <Field Name="UniqueFolderGuid"
+						DisplayName="UniqueFolderGuid"
+						MaxLength="255"
+						DisplaySize="100"
+						Type="Text"
+						Hidden="TRUE">
+        </Field>
+      </Fields>
+    </PropertySchema>
+  </FieldType>
+</FieldTypes>
+
+

@@ -1,0 +1,11 @@
+D:\SHAREPOINT-PROJECTS\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\bin\Debug\WRDC_MutipleImageUpload.dll
+D:\SHAREPOINT-PROJECTS\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\bin\Debug\WRDC_MutipleImageUpload.pdb
+D:\SHAREPOINT-PROJECTS\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SHAREPOINT-PROJECTS\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\obj\Debug\ResolveAssemblyReference.cache
+D:\SHAREPOINT-PROJECTS\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\obj\Debug\WRDC_MutipleImageUpload.dll
+D:\SHAREPOINT-PROJECTS\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\obj\Debug\WRDC_MutipleImageUpload.pdb
+D:\Jenifer\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\bin\Debug\WRDC_MutipleImageUpload.dll
+D:\Jenifer\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\bin\Debug\WRDC_MutipleImageUpload.pdb
+D:\Jenifer\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\obj\Debug\ResolveAssemblyReference.cache
+D:\Jenifer\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\obj\Debug\WRDC_MutipleImageUpload.dll
+D:\Jenifer\WRDC_MutipleImageUpload\WRDC_MutipleImageUpload\obj\Debug\WRDC_MutipleImageUpload.pdb

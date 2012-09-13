@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9adf623c-4dd4-4cfc-bd13-ae24b6df88b1" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MultipleImageUpload.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\MultipleImageUploadFieldControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\MultipleImageUploadFieldEditor.ascx" />
+    <TemplateFile Location="XML\fldtypes_MultipleImageUpload.xml" />
+    <TemplateFile Location="LAYOUTS\XSL\fldtypes_MultipleImageUpload.xsl" />
+    <TemplateFile Location="Layouts\MultipleImageUpload\Images\Chrysanthemum.jpg" />
+    <TemplateFile Location="Layouts\MultipleImageUpload\Images\filedelete.gif" />
+    <TemplateFile Location="Layouts\MultipleImageUpload\Images\fileicon.gif" />
+    <TemplateFile Location="Layouts\MultipleImageUpload\MIUScripts\jquery-1.4.2.min.js" />
+    <TemplateFile Location="Layouts\MultipleImageUpload\MIUScripts\jquery.SPServices-0.7.2ALPHA7.js" />
+    <TemplateFile Location="Images\MultipleImageUpload\gallery.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MultipleImageUpload_MultipleImageUpload\Feature.xml" />
+  </FeatureManifests>
+</Solution>
